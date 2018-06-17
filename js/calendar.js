@@ -68,7 +68,7 @@ function printCalendar()
   document.write("<TD align='center' bgcolor='pink'>Wt</TD>");
   document.write("<TD align='center' bgcolor='pink'>Sr</TD>");
   document.write("<TD align='center' bgcolor='pink'>Cz</TD>");
-  document.write("<TD align='center' bgcolor='pink'>Pi</TD>");
+  document.write("<TD align='center' bgcolor='pink'>Pt</TD>");
   document.write("<TD align='center' bgcolor='pink'>So</TD>");
   document.write("<TD align='center' bgcolor='pink'>Nd</TD>");
   document.write("</TR>");
